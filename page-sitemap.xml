@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//albanes.net/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//h.albanes.com.ar/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://albanes.net/</loc>
+		<loc>https://h.albanes.com.ar/</loc>
 		<lastmod>2018-12-30T16:34:10-04:00</lastmod>
 	</url>
 	<url>
-		<loc>https://albanes.net/contacto/</loc>
+		<loc>https://h.albanes.com.ar/contacto/</loc>
 		<lastmod>2019-08-29T20:04:31-03:00</lastmod>
 	</url>
 </urlset>
